@@ -1,4 +1,4 @@
 # dummydemo
 This is my first git repository
 <br>
-Auther - Shruti Atkore
+Auther - Shruti Sanjay Atkore
